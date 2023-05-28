@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Bungee inline';
+    src: url(BungeeInline-Regular.ttf) format('woff2');
+   }
+
+h1 {
+    font-family: 'Bungee inline';
+    font-weight: lighter;
+    color: rgb(249, 191, 216);
+};
