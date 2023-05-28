@@ -3,4 +3,5 @@ to run the app
 2. run 'npm install' in the terminal.
 3. run 'npm start'
 
+### image preview
 ![preview image](./public/preview.png)
